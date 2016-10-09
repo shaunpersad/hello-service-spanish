@@ -49,7 +49,7 @@ ready({
             port: 5672,
             username: 'guest',
             password: 'guest',
-            pin: {service: 'service-english'} // this service
+            pin: {service: 'service-spanish'} // this service
         });
     
 });
